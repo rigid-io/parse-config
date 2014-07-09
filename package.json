@@ -1,0 +1,23 @@
+{
+  "name": "rigid-parse-config",
+  "version": "0.0.0",
+  "description": "Parse a rigid.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/test-*.js"
+  },
+  "keywords": [
+    "rigid",
+    "config",
+    "json"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^1.4.6",
+    "js-schema": "^0.6.2"
+  },
+  "devDependencies": {
+    "tap": "^0.4.11"
+  }
+}
