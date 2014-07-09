@@ -1,5 +1,7 @@
 # rigid-parse-config
 
+[![build status](https://secure.travis-ci.org/rigid-io/parse-config.png)](http://travis-ci.org/rigid-io/parse-config)
+
 Easily parse a `rigid.json` file.
 
 ## Usage
