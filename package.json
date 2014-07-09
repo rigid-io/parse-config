@@ -1,6 +1,6 @@
 {
   "name": "rigid-parse-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse a rigid.json file",
   "main": "index.js",
   "scripts": {
